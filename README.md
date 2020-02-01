@@ -10,7 +10,7 @@
 POST /sessions
 `
 
-Responsable for authentication in the api.
+Responsible for API authentication.
 
   Required params:
 
